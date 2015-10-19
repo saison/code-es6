@@ -1,4 +1,3 @@
 export function hello(name) {
-  return "Hello world!";
+  return `Hello ${name}!`;
 }
-
